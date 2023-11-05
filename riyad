@@ -6,13 +6,13 @@ http://103.109.56.115/e70a5769-f1ef-4310-8441-7429d360dd79
 #EXTINF:-1 ,Gazi TV
 http://103.109.56.115/a82d9574-57c5-4c27-89b3-29da79075a89
 #EXTINF:-1 ,Tsports
-http://103.109.56.115/9f40b7c6-7a06-4121-9ddf-73223b87a53b
+https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 ,Star Jalsha
 http://103.109.56.115/e2286d07-c1fa-48eb-b83b-55f74c2197b0
-#EXTINF:-1 ,Zee Bangla
-http://103.109.56.115/9e83ecff-dff8-42c1-a33b-03c54bad4394
+#EXTINF:-1 ,Zee Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 #EXTINF:-1 ,Nick
-http://103.109.56.115/79d58c8e-fb67-4f33-be24-4080d882a49e
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 ,BTV TV
 http://103.109.56.115/7f9c723d-68e6-458d-9457-7a771a643a1a
 #EXTINF:-1 ,Independent TV
