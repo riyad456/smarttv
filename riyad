@@ -2,32 +2,34 @@
 #EXTINF:-1 ,PTV Live
 http://103.109.56.115/8d4fadcb-8552-46b4-89d8-a4d009c503c4
 #EXTINF:-1 ,Star Sports
-http://103.109.56.115/e70a5769-f1ef-4310-8441-7429d360dd79
+http://103.109.56.116/live/skyfeed1002/index.m3u89
 #EXTINF:-1 ,Gazi TV
-http://103.109.56.115/a82d9574-57c5-4c27-89b3-29da79075a89
+http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF:-1 ,Tsports
-https://live.tsports.com/live/tsports_live_720/index.m3u8
+http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1 ,Star Jalsha
 http://103.109.56.115/e2286d07-c1fa-48eb-b83b-55f74c2197b0
 #EXTINF:-1 ,Zee Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
-#EXTINF:-1 ,Nick
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 ,Pogo
+http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 ,BTV TV
 http://103.109.56.115/7f9c723d-68e6-458d-9457-7a771a643a1a
 #EXTINF:-1 ,Independent TV
-http://103.109.56.115/3f10f3f3-7c7b-486f-bd2e-ffb89b8b65de
+http://103.109.56.116/live/skyfeed1012/index.m3u8
 #EXTINF:-1 ,Somoy TV
-http://103.109.56.115/76fcca0b-5ac1-4e42-b469-6ba5343912ed
+http://103.109.56.116/live/skyfeed1014/index.m3u8
 #EXTINF:-1 ,Jamuna TV
-http://103.109.56.115/c1b09a07-ce82-4f64-9a36-b053206eecac
+http://103.109.56.116/live/skyfeed1021/index.m3u8
 #EXTINF:-1 ,Ekattor TV
-http://103.109.56.115/f52dd459-f0a7-429f-b04f-688fe460ada
+http://103.109.56.116/live/skyfeed1015/index.m3u8
 #EXTINF:-1 ,Dipto TV
-http://103.109.56.115/c0afa4d3-140e-467e-a493-e7c94a078bff
+http://103.109.56.116/live/skyfeed1011/index.m3u8
 #EXTINF:-1 ,DBC Tv
 http://103.109.56.115/7b221961-aec0-4318-acde-94b2f997f465
 #EXTINF:-1 ,Machranga TV
-http://103.109.56.115/fed1f375-6868-40fb-a389-d603689cf786
+http://103.109.56.116/live/skyfeed1013/index.m3u8
 #EXTINF:-1 ,News 24
 http://103.109.56.115/20afab28-a3cc-4ebc-aab7-584ac47bfed9
+#EXTINF:-1 ,Sony Ath
+http://103.109.56.116/live/skyfeed1016/index.m3u8
